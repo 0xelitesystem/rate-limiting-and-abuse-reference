@@ -4,11 +4,15 @@ Rate limiting caps how many requests a caller can make in a given time, so that 
 
 ## What is inside
 
-- `01-why-rate-limiting-matters.md` what unlimited requests expose you to
-- `02-per-ip-and-per-user-limits.md` who you limit and why both matter
-- `03-protecting-costly-endpoints.md` the tightest limits go on what costs money
-- `04-strategies-and-responses.md` how limits are enforced and what to return
-- `05-beyond-rate-limits.md` the abuse controls that rate limiting alone misses
+- [01-why-rate-limiting-matters.md](01-why-rate-limiting-matters.md) what unlimited requests expose you to
+- [02-per-ip-and-per-user-limits.md](02-per-ip-and-per-user-limits.md) who you limit and why both matter
+- [03-protecting-costly-endpoints.md](03-protecting-costly-endpoints.md) the tightest limits go on what costs money
+- [04-strategies-and-responses.md](04-strategies-and-responses.md) how limits are enforced and what to return
+- [05-beyond-rate-limits.md](05-beyond-rate-limits.md) the abuse controls that rate limiting alone misses
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
